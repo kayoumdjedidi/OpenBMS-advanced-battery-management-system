@@ -1,5 +1,6 @@
 # OpenBMS-advanced-battery-management-system
 
+A more detailed description can be found in the pdf report 
 Battery Management Systems (BMS) are electronic systems designed to manage and
 monitor batteries, ensuring their optimal performance and safety. BMS are widely used
 in various applications, including electric vehicles, renewable energy systems, and portable
