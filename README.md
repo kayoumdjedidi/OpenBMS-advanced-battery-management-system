@@ -1,5 +1,3 @@
-# OpenBMS-advanced-battery-management-system
-
 # OpenBMS: Open Source advanced Battery Management System
 
 OpenBMS is an open source battery management system (BMS) for lithium-ion and other types of batteries up to 12V and 20V total voltage. The system monitors battery status, charges the battery as required, and most importantly, balances the cells to ensure longer lifespan and protection against undervolting. The system is suitable for various applications, including electric vehicles, renewable energy systems, and portable electronics.
