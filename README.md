@@ -2,6 +2,8 @@
 
 OpenBMS is an open source battery management system (BMS) for lithium-ion and other types of batteries up to 12V and 20V total voltage. The system monitors battery status, charges the battery as required, and most importantly, balances the cells to ensure longer lifespan and protection against undervolting. The system is suitable for various applications, including electric vehicles, renewable energy systems, and portable electronics.
 
+![Alt text]([image_url](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/06%20OUTPUT/3D_view_1.png))
+
 ## Table of Contents
 
 - [Introduction](#openbms-open-source-battery-management-system)
@@ -29,13 +31,15 @@ OpenBMS is an open source battery management system (BMS) for lithium-ion and ot
 
 For more detailed information about the OpenBMS project, please refer to the following resources:
 
-- [Project report in PDF format]([https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/Documents/Report.pdf](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/OpenBMS_project_report.pdf))
-- [Schematics, BOM, and Gerber files](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/Hardware/PCB)
-- [Arduino code](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/Software/Arduino)
+- [Project report in PDF format](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/OpenBMS_project_report.pdf)
+- [Schematics](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/01%20SCH)
+- [BOM and output Files](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/06%20OUTPUT)
+- [Arduino code](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/code)
 
 ## Hardware Design
 
 The OpenBMS PCB design was created using Altium Designer and is modular, allowing for the addition or removal of cells as required. The board is double-layered and uses CEM methods, making it suitable for use with a range of battery types.
+
 
 ## Software Design
 
