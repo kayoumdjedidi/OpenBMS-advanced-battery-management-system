@@ -29,7 +29,7 @@ OpenBMS is an open source battery management system (BMS) for lithium-ion and ot
 
 For more detailed information about the OpenBMS project, please refer to the following resources:
 
-- [Project report in PDF format](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/Documents/Report.pdf)
+- [Project report in PDF format]([https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/Documents/Report.pdf](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/blob/main/OpenBMS_project_report.pdf))
 - [Schematics, BOM, and Gerber files](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/Hardware/PCB)
 - [Arduino code](https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system/tree/main/Software/Arduino)
 
